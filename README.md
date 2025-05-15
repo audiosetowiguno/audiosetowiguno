@@ -35,7 +35,7 @@
 
 ###
 
-<h1 align="left">👩‍💻  Get to know me</h1>
+<h2 align="left">👩‍💻  Get to know me</h2>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h1 align="left">📸 Language and tools</h1>
+<h2 align="left">📸 Language and tools</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h1 align="left">🔥   My Stats :</h1>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
