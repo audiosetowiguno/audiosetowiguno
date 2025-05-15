@@ -1,7 +1,7 @@
 ###
 
-<h3 align="center">Hello ! Nice to meet you</h3>
-<h6 align="center"> people call me "dio"</h6>
+<h1 align="center">Hello ! Nice to meet you</h1>
+<h3 align="center"> people call me "dio"</h3>
 
 ###
 <div align="center">
@@ -35,7 +35,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Get to know me</h3>
+<h1 align="left">👩‍💻  Get to know me</h1>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h3 align="left">📸 Language and tools</h3>
+<h1 align="left">📸 Language and tools</h1>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h1 align="left">🔥   My Stats :</h1>
 
 ###
 
