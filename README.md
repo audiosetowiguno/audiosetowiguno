@@ -28,7 +28,7 @@
 </div>
 
 <div align="center">
-  <a href="https://bit.ly/Portfolio-Website-DataAnalyst" target="_blank">
+  <a href="https://website-portfolio-9465a2.webflow.io/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Website%20Portfolio-blue?style=for-the-badge" height="25" alt="website portfolio" />
   </a>
 </div>
