@@ -11,7 +11,7 @@
 ###
 
 ###
-<h5 align="center"> 📲Contact Me   </h5>
+<h3 align="center"> 📲Contact Me   </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/audiosetowiguno/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -35,7 +35,7 @@
 
 ###
 
-<h5 align="left">👩‍💻  Get to know me</h5>
+<h3 align="left">👩‍💻  Get to know me</h3>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h5 align="left">📸 Language and tools</h5>
+<h3 align="left">📸 Language and tools</h3>
 
 ###
 
@@ -71,8 +71,6 @@
   </a>
 
 </div>
-
-
 
 ###
 
